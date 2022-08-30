@@ -1,0 +1,17 @@
+/* universal selector */
+* {
+  color: rgb(238, 14, 219);
+}
+
+/* id */
+#section-1 {
+  border-top-color: blue;
+  border-style: dotted;
+  background-color: cornflowerblue;
+  margin: 10px;
+  padding: 15px;
+}
+
+p {
+  color: darkblue;
+}
